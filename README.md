@@ -39,10 +39,11 @@
 
 ### Backend
 `Python`  
-`Node.js`
+`Node.js`  
+`PHP`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,php" />
 </p>
 
 ### DevOps & 工具
