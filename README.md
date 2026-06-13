@@ -33,7 +33,7 @@
 
 <br/>
 
-## ⭐ 精選專案
+## ⭐ Featured Projects
 
 - [📌 chinese-mojibake-scan](https://github.com/Kelu0427/chinese-mojibake-scan) — 中文編碼與終端顯示修正工具
 - [📌 fubon-tradeapi-ai-skill](https://github.com/Kelu0427/fubon-tradeapi-ai-skill) — AI 交易 API Skill 實作
