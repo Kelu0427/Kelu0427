@@ -44,16 +44,13 @@
 
 ## 📈 GitHub Stats
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="49.5%">
-      <img width="100%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kelu0427&theme=tokyonight" />
-    </td>
-    <td align="center" width="49.5%">
-      <img width="100%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kelu0427&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="98%" height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kelu0427&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=520" />
+</p>
+
+<p align="center">
+  <img width="98%" height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelu0427&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=520" />
+</p>
 
 <p align="center">
   <img width="98%" src="https://streak-stats.demolab.com/?user=Kelu0427&theme=tokyonight&hide_border=true" />
