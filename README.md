@@ -28,27 +28,16 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-`TypeScript`, `JavaScript`, `HTML`, `CSS`  
-`React`  
-`Bootstrap`  
-`Tailwind`（樣式與排版）
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend
-`Python`  
-`Node.js`  
-`PHP`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,php" />
 </p>
 
 ### DevOps & 工具
-`Git`, `GitHub`, `Docker`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
