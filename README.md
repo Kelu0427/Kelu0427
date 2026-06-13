@@ -1,17 +1,17 @@
-<div align="center">
+<div>
 
 # Hi, I’m Kelu 👋
 
 <picture>
-  <img style="display:block;margin:0 auto;" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20%F0%9F%91%8B%20I%27m%20Kelu&fontSize=38&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Learn&descAlignY=60&color=0:4f46e5,100:22d3ee&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20%F0%9F%91%8B%20I%27m%20Kelu&fontSize=38&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Learn&descAlignY=60&color=0:4f46e5,100:22d3ee&fontColor=ffffff" alt="banner" />
 </picture>
 
-<div align="center">
+<div>
   <a href="https://github.com/Kelu0427">
-    <img style="display:block;margin:0 auto;" src="https://komarev.com/ghpvc/?username=Kelu0427&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Kelu0427&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://github.com/Kelu0427?tab=followers">
-    <img style="display:block;margin:0 auto;" src="https://img.shields.io/github/followers/Kelu0427?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Kelu0427?label=Followers&style=for-the-badge" />
   </a>
 </div>
 
@@ -30,18 +30,18 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-<p align="center">
-  <img style="display:block;margin:0 auto;" src="https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend
-<p align="center">
-  <img style="display:block;margin:0 auto;" src="https://skillicons.dev/icons?i=python,nodejs,php" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,php" />
 </p>
 
 ### DevOps & 工具
-<p align="center">
-  <img style="display:block;margin:0 auto;" src="https://skillicons.dev/icons?i=git,github,docker" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 <br/>
@@ -56,17 +56,17 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img style="display:block;margin:0 auto;" width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kelu0427&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img style="display:block;margin:0 auto;" width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelu0427&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" />
+<p align="left">
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kelu0427&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelu0427&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" />
 </p>
 
-<p align="center">
-  <img style="display:block;margin:0 auto;" width="98%" src="https://streak-stats.demolab.com/?user=Kelu0427&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Kelu0427&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img style="display:block;margin:0 auto;" width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kelu0427&theme=tokyonight" />
+<p align="left">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kelu0427&theme=tokyonight" />
 </p>
 
 ---
