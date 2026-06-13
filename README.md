@@ -35,10 +35,10 @@
 
 ## ⭐ 精選專案
 
-### 你可以把下面三項連到你想展示的專案
-- [📌 專案 1](https://github.com/Kelu0427)
-- [📌 專案 2](https://github.com/Kelu0427)
-- [📌 專案 3](https://github.com/Kelu0427)
+### 你可以把這三個公開專案放上來
+- [📌 chinese-mojibake-scan](https://github.com/Kelu0427/chinese-mojibake-scan) — 中文編碼與終端顯示修正工具
+- [📌 fubon-tradeapi-ai-skill](https://github.com/Kelu0427/fubon-tradeapi-ai-skill) — AI 交易 API Skill 實作
+- [📌 Codex-Keyring](https://github.com/Kelu0427/Codex-Keyring) — Codex 開發工具輔助元件
 
 <br/>
 
@@ -57,10 +57,9 @@
 
 ## 📫 Contact
 
-- Email: [你可放信箱](mailto:your_email@example.com)
-- LinkedIn: [你可放 LinkedIn](https://www.linkedin.com)
+- Email: [a30082424@gmail.com](mailto:a30082424@gmail.com)
 
 
 ---
 
-_最後更新：
+_最後更新：2026-06-13_
