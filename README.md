@@ -48,11 +48,11 @@
 
 ## ⭐ Featured Projects
 
-| 專案 | 類型 | 重點 | 技術 |
-| --- | --- | --- | --- |
-| [chinese-mojibake-scan](https://github.com/Kelu0427/chinese-mojibake-scan) | 工具 | 中文亂碼診斷與修正流程，重點在字元編碼與輸出相容性 | Python, Terminal Automation |
-| [fubon-tradeapi-ai-skill](https://github.com/Kelu0427/fubon-tradeapi-ai-skill) | AI/Finance Skill | 為交易 API 加上 AI 解析層，將金融資料轉成可直接使用的建模輸入 | Python, AI Workflow, API |
-| [Codex-Keyring](https://github.com/Kelu0427/Codex-Keyring) | 開發輔助元件 | 幫助開發流程更順的本地工具，降低重複操作與錯誤率 | Node.js, Script Automation, Developer Tools |
+| 專案 | 類型 | 重點 | 技術 | 狀態 |
+| --- | --- | --- | --- | --- |
+| [chinese-mojibake-scan](https://github.com/Kelu0427/chinese-mojibake-scan) | 工具 | 中文亂碼診斷與修正流程，重點在字元編碼與輸出相容性 | Python, Terminal Automation | ✅ 完成 |
+| [fubon-tradeapi-ai-skill](https://github.com/Kelu0427/fubon-tradeapi-ai-skill) | AI/Finance Skill | 為交易 API 加上 AI 解析層，將金融資料轉成可直接使用的建模輸入 | Python, AI Workflow, API | ✅ 完成 |
+| [Codex-Keyring](https://github.com/Kelu0427/Codex-Keyring) | 開發輔助元件 | 幫助開發流程更順的本地工具，降低重複操作與錯誤率 | Node.js, Script Automation, Developer Tools | 🚧 持續優化 |
 
 <br/>
 
