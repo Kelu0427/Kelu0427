@@ -35,7 +35,6 @@
 
 ## ⭐ 精選專案
 
-### 你可以把這三個公開專案放上來
 - [📌 chinese-mojibake-scan](https://github.com/Kelu0427/chinese-mojibake-scan) — 中文編碼與終端顯示修正工具
 - [📌 fubon-tradeapi-ai-skill](https://github.com/Kelu0427/fubon-tradeapi-ai-skill) — AI 交易 API Skill 實作
 - [📌 Codex-Keyring](https://github.com/Kelu0427/Codex-Keyring) — Codex 開發工具輔助元件
