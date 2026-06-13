@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kelu0427&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kelu0427&theme=tokyonight" />
 </p>
 
 ---
