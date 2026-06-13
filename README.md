@@ -44,13 +44,13 @@
 
 ## 📈 GitHub Stats
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center">
-      <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kelu0427&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <td align="center" width="49.5%">
+      <img width="100%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kelu0427&theme=tokyonight" />
     </td>
-    <td width="50%" align="center">
-      <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelu0427&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <td align="center" width="49.5%">
+      <img width="100%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kelu0427&theme=tokyonight" />
     </td>
   </tr>
 </table>
